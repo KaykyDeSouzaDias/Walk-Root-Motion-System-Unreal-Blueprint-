@@ -1,0 +1,17 @@
+﻿  Parsing headers for System_01Editor
+    Running UnrealHeaderTool "D:\Downloads\Portfolio\System_01\System_01.uproject" "D:\Downloads\Portfolio\System_01\Intermediate\Build\Win64\System_01Editor\Development\System_01Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for System_01Editor in 77,4478336 seconds
+  Building System_01Editor...
+  Using Visual Studio 2019 14.27.29111 toolchain (D:\Microsoft Visual Studio\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 6 processes...
+    [1/7] System_01.init.gen.cpp
+    [2/7] System_01GameMode.cpp
+    [3/7] System_01Character.gen.cpp
+    [4/7] System_01Character.cpp
+    [5/7] UE4Editor-System_01-0002.lib
+       Criando biblioteca D:\Downloads\Portfolio\System_01\Intermediate\Build\Win64\UE4Editor\Development\System_01\UE4Editor-System_01-0002.lib e objeto D:\Downloads\Portfolio\System_01\Intermediate\Build\Win64\UE4Editor\Development\System_01\UE4Editor-System_01-0002.exp
+    [6/7] UE4Editor-System_01-0002.dll
+       Criando biblioteca D:\Downloads\Portfolio\System_01\Intermediate\Build\Win64\UE4Editor\Development\System_01\UE4Editor-System_01-0002.suppressed.lib e objeto D:\Downloads\Portfolio\System_01\Intermediate\Build\Win64\UE4Editor\Development\System_01\UE4Editor-System_01-0002.suppressed.exp
+    [7/7] System_01Editor.target
+  Total time in Parallel executor: 561,43 seconds
+  Total execution time: 648,66 seconds
